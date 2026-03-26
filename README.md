@@ -1,6 +1,4 @@
-### Special Reminder:cty is god!
-
-# 123
+# Special Reminder:cty is god!
 
 ## Project setup
 ```
